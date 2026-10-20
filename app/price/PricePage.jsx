@@ -34,7 +34,7 @@ function PricePage() {
   </p>
 
   <p>
-    <IntLink href="/"><strong>My Home Anandam</strong></IntLink> is being developed by <strong>My Home Group</strong> on approximately <strong>52.5 acres</strong> and will include <strong>27 residential towers</strong>, numerous common areas and retail spaces. By understanding the size of proposed <strong>2, 3 &amp; 4 BHK apartments</strong> and what may affect the cost of a property, buyers can begin to develop a budget prior to the announcement of official pricing.
+    <IntLink href="/">My Home Anandam</IntLink> is being developed by <ExtLink href="https://www.myhomeconstructions.com/">My Home Group</ExtLink> on approximately <strong>52.5 acres</strong> and will include <strong>27 residential towers</strong>, numerous common areas and retail spaces. By understanding the size of proposed <strong>2, 3 &amp; 4 BHK apartments</strong> and what may affect the cost of a property, buyers can begin to develop a budget prior to the announcement of official pricing.
   </p>
 
   <figure className="space-y-2">
@@ -57,7 +57,7 @@ function PricePage() {
   </h2>
 
   <p>
-    Before comparing the <strong>My Home Anandam price</strong>, here is a quick overview of the key project details. You can also explore the <IntLink href="/master-plan"><strong>My Home Anandam master plan</strong></IntLink> to see how the towers and open spaces are laid out across the site.
+    Before comparing the <strong>My Home Anandam price</strong>, here is a quick overview of the key project details. You can also explore the <IntLink href="/master-plan">My Home Anandam master plan</IntLink> to see how the towers and open spaces are laid out across the site.
   </p>
 
   <table className="w-full border-collapse border border-gray-300 text-left">
@@ -95,7 +95,7 @@ function PricePage() {
   </h2>
 
   <p>
-    The proposed apartment configurations provide a starting point for understanding the potential cost differences between unit types. The following table summarises the indicative sizes currently available. For room-wise layouts, see the <IntLink href="/floor-plan"><strong>My Home Anandam floor plans</strong></IntLink>.
+    The proposed apartment configurations provide a starting point for understanding the potential cost differences between unit types. The following table summarises the indicative sizes currently available. For room-wise layouts, see the <IntLink href="/floor-plan">My Home Anandam floor plans</IntLink>.
   </p>
 
   <table className="w-full border-collapse border border-gray-300 text-left">
@@ -205,7 +205,7 @@ function PricePage() {
   </ul>
 
   <p>
-    The developer's final pricing policy will determine which of these factors affect individual apartments and by how much. Location also plays a part in long-term value: the project sits on the corridor between Whitefield and Hoskote. Read more about connectivity on the <IntLink href="/location"><strong>My Home Anandam location</strong></IntLink> page.
+    The developer's final pricing policy will determine which of these factors affect individual apartments and by how much. Location also plays a part in long-term value: the project sits on the corridor between Whitefield and Hoskote. Read more about connectivity on the <IntLink href="/location">My Home Anandam location</IntLink> page.
   </p>
 
   <h2 className="text-2xl font-bold">

@@ -32,7 +32,7 @@ function MasterPlanPage() {
           <DownloadActions/>
           <div className="space-y-6 text-gray-800 mt-6">
   <p>
-    The <strong>My Home Anandam master plan</strong> is an outline of the proposed arrangement of residential towers, landscaped areas, shared amenities and retail space for a large residential development located on <strong>Whitefield–Hoskote Main Road</strong> in <strong>East Bengaluru</strong>. A prospective home buyer can use the <ExtLink href="https://en.wikipedia.org/wiki/Master_plan">master plan</ExtLink> to understand how the project is organised and how each space will be used in relation to other spaces. <IntLink href="/"><strong>My Home Anandam</strong></IntLink> by <strong>My Home Group</strong> is being developed on approximately <strong>52.5 acres</strong> and will include <strong>27 residential towers</strong> and more than <strong>5,200 residential units</strong>.
+    The <strong>My Home Anandam master plan</strong> is an outline of the proposed arrangement of residential towers, landscaped areas, shared amenities and retail space for a large residential development located on <strong>Whitefield–Hoskote Main Road</strong> in <strong>East Bengaluru</strong>. A prospective home buyer can use the <ExtLink href="https://en.wikipedia.org/wiki/Master_plan">master plan</ExtLink> to understand how the project is organised and how each space will be used in relation to other spaces. <IntLink href="/">My Home Anandam</IntLink> by <ExtLink href="https://www.myhomeconstructions.com/">My Home Group</ExtLink> is being developed on approximately <strong>52.5 acres</strong> and will include <strong>27 residential towers</strong> and more than <strong>5,200 residential units</strong>.
   </p>
 
   <p>
@@ -115,7 +115,7 @@ function MasterPlanPage() {
   </p>
 
   <p>
-    It is recommended that buyers read both the master plan and the individual floor plans together. The master plan provides an overview of the entire site layout, whereas the <IntLink href="/floor-plan"><strong>My Home Anandam floor plans</strong></IntLink> provide detailed information regarding the layout and size of each <strong>2, 3 &amp; 4 BHK apartment</strong>.
+    It is recommended that buyers read both the master plan and the individual floor plans together. The master plan provides an overview of the entire site layout, whereas the <IntLink href="/floor-plan">My Home Anandam floor plans</IntLink> provide detailed information regarding the layout and size of each <strong>2, 3 &amp; 4 BHK apartment</strong>.
   </p>
 
   <h3 className="text-2xl font-bold">
@@ -151,7 +151,7 @@ function MasterPlanPage() {
   </h2>
 
   <p>
-    The proposed development will include a <strong>clubhouse of approximately 110,000 sq. ft.</strong> and more than <strong>250 planned amenities</strong> throughout the community. Explore the full list on the <IntLink href="/amenities"><strong>My Home Anandam amenities</strong></IntLink> page.
+    The proposed development will include a <strong>clubhouse of approximately 110,000 sq. ft.</strong> and more than <strong>250 planned amenities</strong> throughout the community. Explore the full list on the <IntLink href="/amenities">My Home Anandam amenities</IntLink> page.
   </p>
 
   <p>
@@ -187,7 +187,7 @@ function MasterPlanPage() {
   </h2>
 
   <p>
-    <strong>My Home Anandam</strong> is being developed along <strong>Whitefield–Hoskote Main Road</strong> in East Bengaluru, linking Whitefield with Hoskote. This road connects to SH-35, Kondasapura Road and BDA Road. These roads form the larger road network that provides a context for how users will access the development. Learn more on the <IntLink href="/location"><strong>My Home Anandam location</strong></IntLink> page.
+    <strong>My Home Anandam</strong> is being developed along <strong>Whitefield–Hoskote Main Road</strong> in East Bengaluru, linking Whitefield with Hoskote. This road connects to SH-35, Kondasapura Road and BDA Road. These roads form the larger road network that provides a context for how users will access the development. Learn more on the <IntLink href="/location">My Home Anandam location</IntLink> page.
   </p>
 
   <p>
@@ -224,7 +224,7 @@ function MasterPlanPage() {
   </ul>
 
   <p>
-    Since <strong>My Home Anandam</strong> is currently in the <strong>pre-launch phase</strong>, the final approved layout may contain details that differ from preliminary information. Buyers should rely on the latest official documents when evaluating the development. For indicative costs, see the <IntLink href="/price"><strong>My Home Anandam price</strong></IntLink> page.
+    Since <strong>My Home Anandam</strong> is currently in the <strong>pre-launch phase</strong>, the final approved layout may contain details that differ from preliminary information. Buyers should rely on the latest official documents when evaluating the development. For indicative costs, see the <IntLink href="/price">My Home Anandam price</IntLink> page.
   </p>
 </div>
 <div className="space-y-6 text-gray-800 mt-6">

@@ -4,14 +4,14 @@ import { useState } from "react";
 import { FaTimes, FaChevronLeft, FaChevronRight, FaExpand } from "react-icons/fa";
 
 const galleryImages = [
-  { id: 1,  src: "./images/banners/myhomeanandam.webp",  alt: "My Home Anandam" },
-  { id: 2,  src: "./images/banners/my-home-anandam.webp",  alt: "My Home Anandam" },
-  { id: 3,  src: "./images/banners/my-homeanandam.webp",  alt: "My Home Anandam" },
-  { id: 4,  src: "./images/gallery/image1.webp",  alt: "My Home Anandam" },
-  { id: 5,  src: "./images/gallery/image2.webp",  alt: "My Home Anandam" },
-  { id: 6,  src: "./images/gallery/image3.webp",  alt: "My Home Anandam" },
-  { id: 7,  src: "./images/gallery/image4.webp",  alt: "My Home Anandam" },
-  { id: 8,  src: "./images/gallery/image5.webp",  alt: "My Home Anandam" },
+  { id: 1,  src: "./images/banners/myhomeanandam.webp",  alt: "My Home Anandam high-rise towers on Whitefield–Hoskote Road, East Bangalore" },
+  { id: 2,  src: "./images/banners/my-home-anandam.webp",  alt: "My Home Anandam aerial view with clubhouse, swimming pool and landscaped grounds" },
+  { id: 3,  src: "./images/banners/my-homeanandam.webp",  alt: "My Home Anandam township aerial view along Whitefield–Hoskote Road" },
+  { id: 4,  src: "./images/gallery/image1.webp",  alt: "My Home Anandam residential towers surrounded by greenery" },
+  { id: 5,  src: "./images/gallery/image2.webp",  alt: "My Home Anandam apartment living and dining room interior" },
+  { id: 6,  src: "./images/gallery/image3.webp",  alt: "My Home Anandam living room with balcony view" },
+  { id: 7,  src: "./images/gallery/image4.webp",  alt: "My Home Anandam spacious 4 BHK living area interior" },
+  { id: 8,  src: "./images/gallery/image5.webp",  alt: "My Home Anandam clubhouse with swimming pool and deck" },
 ];
 
 export default function GallerySection() {

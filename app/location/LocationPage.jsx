@@ -67,7 +67,7 @@ function LocationPage() {
   </h2>
 
   <p>
-    <IntLink href="/"><strong>My Home Anandam</strong></IntLink> by <strong>My Home Group</strong> will be located along the <strong>Whitefield–Hoskote Main Road</strong> in East Bengaluru. This large-scale corridor links many of the existing residential and commercial developments with those that are currently being developed, which gives potential buyers numerous options to evaluate as they determine if this is the right place for them. Whitefield is a well-established area for both employment and residential purposes.
+    <IntLink href="/">My Home Anandam</IntLink> by <ExtLink href="https://www.myhomeconstructions.com/">My Home Group</ExtLink> will be located along the <strong>Whitefield–Hoskote Main Road</strong> in East Bengaluru. This large-scale corridor links many of the existing residential and commercial developments with those that are currently being developed, which gives potential buyers numerous options to evaluate as they determine if this is the right place for them. Whitefield is a well-established area for both employment and residential purposes.
   </p>
 
   <p>
@@ -170,7 +170,7 @@ function LocationPage() {
   </h3>
 
   <p>
-    Supermarkets, restaurants and local shops may decrease the frequency of long-distance travel. <strong>My Home Anandam</strong> will have <strong>retail facilities at the front of the development</strong>; however, what type of business or service is offered will be determined by how it is implemented. See how retail fits into the site on the <IntLink href="/master-plan"><strong>My Home Anandam master plan</strong></IntLink> page.
+    Supermarkets, restaurants and local shops may decrease the frequency of long-distance travel. <strong>My Home Anandam</strong> will have <strong>retail facilities at the front of the development</strong>; however, what type of business or service is offered will be determined by how it is implemented. See how retail fits into the site on the <IntLink href="/master-plan">My Home Anandam master plan</IntLink> page.
   </p>
 
   <h2 className="text-2xl font-bold">
@@ -178,7 +178,7 @@ function LocationPage() {
   </h2>
 
   <p>
-    The location could be appropriate for those who want to live in East Bengaluru and have good road access to Whitefield and Hoskote. Whether or not it is suitable depends upon where you work, how you commute, what types of service you need and your personal lifestyle preferences. This development will include residential buildings, common areas, landscaped spaces and retail space, along with a wide range of <IntLink href="/amenities"><strong>My Home Anandam amenities</strong></IntLink>.
+    The location could be appropriate for those who want to live in East Bengaluru and have good road access to Whitefield and Hoskote. Whether or not it is suitable depends upon where you work, how you commute, what types of service you need and your personal lifestyle preferences. This development will include residential buildings, common areas, landscaped spaces and retail space, along with a wide range of <IntLink href="/amenities">My Home Anandam amenities</IntLink>.
   </p>
 
   <p>
@@ -198,7 +198,7 @@ function LocationPage() {
   </p>
 
   <p>
-    However, there is no guarantee of future appreciation or rental income. Buyers should compare the price they pay for a property to other similar properties, evaluate the rental demand in the immediate area, and consider maintenance costs, vacancy times and the length of time it will take to complete the development. Compare the <IntLink href="/price"><strong>My Home Anandam price</strong></IntLink> and <IntLink href="/floor-plan"><strong>floor plans</strong></IntLink> once official figures are released.
+    However, there is no guarantee of future appreciation or rental income. Buyers should compare the price they pay for a property to other similar properties, evaluate the rental demand in the immediate area, and consider maintenance costs, vacancy times and the length of time it will take to complete the development. Compare the <IntLink href="/price">My Home Anandam price</IntLink> and <IntLink href="/floor-plan">floor plans</IntLink> once official figures are released.
   </p>
 
   <p>

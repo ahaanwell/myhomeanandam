@@ -34,7 +34,7 @@ function FloorPlanPage() {
   </p>
 
   <p>
-    <IntLink href="/"><strong>My Home Anandam</strong></IntLink> by <strong>My Home Group</strong> has been designed as <strong>2, 3 &amp; 4 BHK apartments</strong> with indicative sizes ranging from approximately <strong>1,240 sq. ft. to 2,600 sq. ft.</strong> across all available configurations. Since the project is currently in the <strong>pre-launch phase</strong>, detailed apartment drawings, room dimensions and confirmed carpet areas should be checked via the official floor plans once they are made available.
+    <IntLink href="/">My Home Anandam</IntLink> by <ExtLink href="https://www.myhomeconstructions.com/">My Home Group</ExtLink> has been designed as <strong>2, 3 &amp; 4 BHK apartments</strong> with indicative sizes ranging from approximately <strong>1,240 sq. ft. to 2,600 sq. ft.</strong> across all available configurations. Since the project is currently in the <strong>pre-launch phase</strong>, detailed apartment drawings, room dimensions and confirmed carpet areas should be checked via the official floor plans once they are made available.
   </p>
 
   <h2 className="text-2xl font-bold">
@@ -56,7 +56,7 @@ function FloorPlanPage() {
   </h2>
 
   <p>
-    The apartments are spread across <strong>27 towers</strong> on <strong>52.5 acres</strong>. To see where each tower sits within the community, explore the <IntLink href="/master-plan"><strong>My Home Anandam master plan</strong></IntLink>.
+    The apartments are spread across <strong>27 towers</strong> on <strong>52.5 acres</strong>. To see where each tower sits within the community, explore the <IntLink href="/master-plan">My Home Anandam master plan</IntLink>.
   </p>
 
   <table className="w-full border-collapse border border-gray-300 text-left">
@@ -86,7 +86,7 @@ function FloorPlanPage() {
   </p>
 
   <p>
-    The following table summarises the currently available indicative apartment sizes. For the latest cost of each configuration, see the <IntLink href="/price"><strong>My Home Anandam price</strong></IntLink> page.
+    The following table summarises the currently available indicative apartment sizes. For the latest cost of each configuration, see the <IntLink href="/price">My Home Anandam price</IntLink> page.
   </p>
 
   <table className="w-full border-collapse border border-gray-300 text-left">
@@ -251,7 +251,7 @@ function FloorPlanPage() {
   </ul>
 
   <p>
-    Beyond the apartment itself, consider the shared spaces and surroundings. Explore the <IntLink href="/amenities"><strong>My Home Anandam amenities</strong></IntLink> and the project's <IntLink href="/location"><strong>location on Whitefield–Hoskote Road</strong></IntLink>, which connects Whitefield with Hoskote.
+    Beyond the apartment itself, consider the shared spaces and surroundings. Explore the <IntLink href="/amenities">My Home Anandam amenities</IntLink> and the project's <IntLink href="/location">location on Whitefield–Hoskote Road</IntLink>, which connects Whitefield with Hoskote.
   </p>
 </div>
 <div className="space-y-6 text-gray-800 mt-6">

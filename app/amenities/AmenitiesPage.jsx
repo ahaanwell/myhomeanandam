@@ -32,7 +32,7 @@ function AmenitiesPage() {
           <DownloadActions/>
           <div className="space-y-6 text-gray-800 mt-6">
   <p>
-    The <strong>amenities at My Home Anandam</strong> have been designed to provide residents with opportunities for daily recreation, fitness and social interaction in a large residential community located on <strong>Whitefield–Hoskote Main Road</strong>, <strong>East Bengaluru</strong>. This development includes residential towers as well as landscaped areas, shared recreational facilities and a large clubhouse; therefore, how these amenities are distributed and accessed is an important factor for potential homebuyers. <IntLink href="/"><strong>My Home Anandam</strong></IntLink> by <strong>My Home Group</strong> is being developed on approximately <strong>52.5 acres</strong> and there are over <strong>250 amenities</strong> planned for the entire development.
+    The <strong>amenities at My Home Anandam</strong> have been designed to provide residents with opportunities for daily recreation, fitness and social interaction in a large residential community located on <strong>Whitefield–Hoskote Main Road</strong>, <strong>East Bengaluru</strong>. This development includes residential towers as well as landscaped areas, shared recreational facilities and a large clubhouse; therefore, how these amenities are distributed and accessed is an important factor for potential homebuyers. <IntLink href="/">My Home Anandam</IntLink> by <ExtLink href="https://www.myhomeconstructions.com/">My Home Group</ExtLink> is being developed on approximately <strong>52.5 acres</strong> and there are over <strong>250 amenities</strong> planned for the entire development.
   </p>
 
   <p>
@@ -151,7 +151,7 @@ function AmenitiesPage() {
   </figure>
 
   <p>
-    Families should consider where children's play areas and other shared facilities are located when reviewing the <IntLink href="/master-plan"><strong>My Home Anandam master plan</strong></IntLink>. Buyers should look at the master plan to determine the distance between each residential tower, the amenity zone and the pedestrian route.
+    Families should consider where children's play areas and other shared facilities are located when reviewing the <IntLink href="/master-plan">My Home Anandam master plan</IntLink>. Buyers should look at the master plan to determine the distance between each residential tower, the amenity zone and the pedestrian route.
   </p>
 
   <p>
@@ -171,7 +171,7 @@ function AmenitiesPage() {
   </h3>
 
   <p>
-    The availability of dedicated <strong><ExtLink href="https://en.wikipedia.org/wiki/Playground">children's play areas</ExtLink></strong> (if they are part of the approved amenity list) should be assessed based on their accessibility, visibility and distance from vehicular traffic. The close proximity to residential units may affect how often families utilise these areas.
+    The availability of dedicated <ExtLink href="https://en.wikipedia.org/wiki/Playground">children's play areas</ExtLink> (if they are part of the approved amenity list) should be assessed based on their accessibility, visibility and distance from vehicular traffic. The close proximity to residential units may affect how often families utilise these areas.
   </p>
 
   <p>
@@ -211,7 +211,7 @@ function AmenitiesPage() {
   </p>
 
   <p>
-    However, the availability of retail should be evaluated separately from residential amenities. Buyers should look at the distance between their home and the nearest retail area, how they will get to that retail area, and how visitors are managed. Additionally, the final design should clearly show how commercial activities are separated from residential circulation so that buyers can understand possible issues related to traffic, noise and privacy. Learn more about the surroundings on the <IntLink href="/location"><strong>My Home Anandam location</strong></IntLink> page.
+    However, the availability of retail should be evaluated separately from residential amenities. Buyers should look at the distance between their home and the nearest retail area, how they will get to that retail area, and how visitors are managed. Additionally, the final design should clearly show how commercial activities are separated from residential circulation so that buyers can understand possible issues related to traffic, noise and privacy. Learn more about the surroundings on the <IntLink href="/location">My Home Anandam location</IntLink> page.
   </p>
 
   <h2 className="text-2xl font-bold">
@@ -244,7 +244,7 @@ function AmenitiesPage() {
   </ul>
 
   <p>
-    Amenities are only one part of the decision. Compare the <IntLink href="/floor-plan"><strong>My Home Anandam floor plans</strong></IntLink> and the latest <IntLink href="/price"><strong>My Home Anandam price</strong></IntLink> to see which <strong>2, 3 &amp; 4 BHK apartment</strong> best fits your needs.
+    Amenities are only one part of the decision. Compare the <IntLink href="/floor-plan">My Home Anandam floor plans</IntLink> and the latest <IntLink href="/price">My Home Anandam price</IntLink> to see which <strong>2, 3 &amp; 4 BHK apartment</strong> best fits your needs.
   </p>
 </div>
 <div className="space-y-6 text-gray-800 mt-6">

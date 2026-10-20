@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const toLocalImage = (cloudinaryUrl) => {
 
-  if (!cloudinaryUrl) return "/images/default.jpg"; 
+  if (!cloudinaryUrl) return "/images/banners/myhomeanandam.webp";
   return cloudinaryUrl.replace(
     'https://res.cloudinary.com/djdp6aloi/image/upload',
     '/images'

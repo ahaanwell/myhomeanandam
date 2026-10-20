@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import { useState, useEffect } from "react";
@@ -76,26 +77,30 @@ export default function EMICalculator() {
   const interestDash = (interestPct / 100) * circ;
 
   return (
-    <div className="min-h-screen bg-[#ffffff] flex items-center justify-center p-6 font-serif">
-      <div className="w-full max-w-5xl relative">
-        <div className="text-center mb-10">
-          <p className="text-xs tracking-[0.35em] text-primary uppercase mb-2 font-sans">
-            Real Estate Finance
-          </p>
-          <h2 className="text-3xl lg:text-4xl font-bold text-[#1a1a1a] tracking-tight leading-none">
+    <div className="min-h-screen bg-[#ffffff] flex items-center justify-center p-6">
+      <div className="w-full max-w-5xl relative mt-6">
+        <div className="text-center">
+          <h2 className="text-2xl font-semibold text-gray-900 text-center mb-2">
             EMI Calculator
           </h2>
-          <div className="flex items-center justify-center gap-3 mt-3">
-            <div className="h-px w-16 bg-primary" />
-            <div className="w-1.5 h-1.5 rounded-full bg-primary" />
-            <div className="h-px w-16 bg-primary" />
-          </div>
-          <p className="mt-4 text-gray-800 text-sm font-sans tracking-wide max-w-md mx-auto">
-            Plan your home loan with confidence. Get a detailed breakdown of your monthly commitment.
-          </p>
+          
         </div>
+        <div className="w-full h-px bg-gray-200 mb-6" />
+        <div className="space-y-6 text-gray-800">
+  <p>
+    The home loan tool helps buyers calculate what their monthly payments will be based on the loan amount, interest rate and repayment term. All three factors determine the EMI.
+  </p>
 
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
+  <p>
+    For example, a ₹1 crore loan at a hypothetical 8.5% annual interest rate over 20 years would result in a monthly payment of approximately ₹86,800. This is simply an example of how to calculate the numbers; it is not a home loan quote. Interest rates and approvals will be determined by the loan and the borrower's credit history.
+  </p>
+
+  <p>
+    Buyers should consider maintenance fees, household costs, current loans and other financial obligations when determining whether a home is affordable. It is also recommended that buyers save for registration, interior design, moving costs and other unexpected expenses. Borrowing from a bank is different than being told to borrow as much money as possible. Regardless of whether household costs increase or income decreases, the monthly payment should remain manageable.
+  </p>
+</div>
+
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-6 mt-6">
           <div className="lg:col-span-3 bg-white rounded-2xl shadow-xl border border-[#e8ddd0] p-8">
             <div className="flex items-center gap-3 mb-8">
               <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
@@ -186,14 +191,14 @@ export default function EMICalculator() {
               <div className="flex gap-3 pt-2">
                 <button
                   onClick={calculateEMI}
-                  className="flex-1 bg-primary cursor-pointer text-white py-4 rounded-xl font-semibold text-base tracking-wide font-sans transition-all duration-200 shadow-lg shadow-primary/20 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-0.5 active:translate-y-0"
+                  className="flex-1 bg-primary cursor-pointer text-white py-4 rounded-xl font-semibold text-base tracking-wide font-sans transition-all duration-200 shadow-lg shadow-[#b8860b]/20 hover:shadow-xl hover:shadow-[#b8860b]/30 hover:-translate-y-0.5 active:translate-y-0"
                 >
                   Calculate EMI
                 </button>
                 {calculated && (
                   <button
                     onClick={reset}
-                    className="px-6 py-4 rounded-xl border-2 border-black text-black font-semibold font-sans transition-all duration-200"
+                    className="px-6 py-4 rounded-xl bg-primary text-white font-semibold font-sans transition-all duration-200"
                   >
                     Reset
                   </button>
