@@ -22,11 +22,6 @@ export default function PageHero({ title }) {
           <span className="mx-2">/</span>
           <span>{title}</span>
         </div>
-
-        <p className="text-2xl md:text-4xl font-semibold">
-          {title}
-        </p>
-
       </div>
 
     </section>
